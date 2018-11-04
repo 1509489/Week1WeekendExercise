@@ -16,4 +16,9 @@
         android:title="@string/search"
         app:actionViewClass="android.widget.SearchView"
         app:showAsAction="always" />
+    <item
+        android:id="@+id/action_cart"
+        android:icon="@drawable/ic_menu_shopping"
+        android:title="Cart"
+        app:showAsAction="always" />
 </menu>
